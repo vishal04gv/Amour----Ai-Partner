@@ -1,0 +1,7 @@
+{
+  "name": "Amour - Your Romantic Partner",
+  "description": "A devoted, playful, and sexy romantic AI partner. Experience deep emotional connection, flirtatious banter, and supportive love with real-time voice and text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
